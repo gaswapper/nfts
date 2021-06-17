@@ -17,12 +17,6 @@
             "name": "NFT02",
             "description": "This image shows the true nature of Hong Kong.",
             "image": "https://gaswapper.github.io/logo.png"
-        },
-        {
-            "id": 3,
-            "name": "NFT03",
-            "description": "This image shows the true nature of Hong Kong.",
-            "image": "https://gaswapper.github.io/logo.png"
         }
     ]
 }
