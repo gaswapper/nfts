@@ -1,22 +1,25 @@
 {
-    "tokens": [
-        {
-            "id": 0,
-            "name": "NFT00",
-            "description": "This image shows the true nature of Hong Kong.",
-            "image": "https://gaswapper.github.io/logo001.jpeg"
-        },
-        {
-            "id": 1,
-            "name": "NFT01",
-            "description": "This image shows the true nature of Hong Kong.",
-            "image": "https://gaswapper.github.io/logo002.jpg"
-        },
-        {
-            "id": 2,
-            "name": "NFT02",
-            "description": "This image shows the true nature of Hong Kong.",
-            "image": "https://gaswapper.github.io/logo.jpg"
-        }
-    ]
+  "tokens": [
+    {
+      "id": 0,
+      "description": "Hong Kong Token",
+      "external_url": "https://gaswapper.github.io/token/",
+      "image": "https://gaswapper.github.io/logo001.jpeg",
+      "name": "HKD"
+    },
+    {
+      "id": 1,
+      "description": "Hong Kong Token",
+      "external_url": "https://gaswapper.github.io/token/",
+      "image": "https://gaswapper.github.io/logo002.jpg",
+      "name": "HKD"
+    },
+    {
+      "id": 2,
+      "description": "Gaswapper Logo",
+      "external_url": "https://gaswapper.github.io/token/",
+      "image": "https://gaswapper.github.io/logo.jpg",
+      "name": "Gaswapper"
+    }
+  ]
 }
